@@ -8,6 +8,7 @@ I am a data science intern <a href="geaerospace.com" target="_blank">@GE Aerospa
 - 🌱 I’m currently learning diffusion models.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about anime and sports.
+- ⚡ Fun fact: I am proficient using the soroban abacus.
 - 📫 How to reach me: pradha11@msu.edu.
 
 💼 Languages and Tools
@@ -32,19 +33,11 @@ I am a data science intern <a href="geaerospace.com" target="_blank">@GE Aerospa
 🎧 What am I listening to?
 ---
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
   </a>
-</p>          
-          
-          
-          
-          
-          
-          
-          
-
-
+</p>   
+        
 <!--
 **Pratt2321/Pratt2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,5 +45,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
