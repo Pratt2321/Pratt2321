@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am an incoming data science intern <a href="geaerospace.com" target="_blank">@GE Aerospace</a>. I like problem-solving, listening to music, and playing spikeball. 
+I am an incoming data science intern [@GE Aerospace](https://geaerospace.com/). I enjoy problem-solving, listening to music, and playing spikeball.
 
 - 🔭 I’m currently working on convolution neural networks.
 - 🌱 I’m currently learning diffusion models.
