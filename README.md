@@ -8,8 +8,7 @@ I am a data science intern <a href="geaerospace.com" target="_blank">@GE Aerospa
 - 🌱 I’m currently learning diffusion models.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about anime and sports.
-- ⚡ Fun fact: I am proficient using the soroban abacus.
-- 📫 How to reach me: pradha11@msu.edu.
+- ⚡ Fun fact: I am proficient in using the soroban abacus.
 
 💼 Languages and Tools
 ---
@@ -45,4 +44,5 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
+- 📫 How to reach me: ...
 -->
