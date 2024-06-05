@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a data solutions enginnering intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball.
+I am a data solutions engineering intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball.
 
 - 🔭 I’m currently working on convolution neural networks.
 - 🌱 I’m currently learning diffusion models.
