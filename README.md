@@ -11,7 +11,7 @@ I am a data solutions engineering intern <a href="https://geaerospace.com/" targ
 - ⚡ Fun fact: I am proficient in using the soroban abacus.
 
 💼 Languages and Tools
----
+--- 
 <i class="devicon-vscode-plain colored"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='50' height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='50' height='50'/>
