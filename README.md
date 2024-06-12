@@ -38,14 +38,4 @@ I am a data solutions engineering intern <a href="https://geaerospace.com/" targ
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
   </a>
-</p>   
-        
-<!--
-**Pratt2321/Pratt2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- 📫 How to reach me: ...
--->
+</p>
