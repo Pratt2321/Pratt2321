@@ -5,7 +5,7 @@
 I am a data solutions engineering intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball.
 
 - 🔭 I’m currently working on convolution neural networks.
-- 🌱 I’m currently learning kusto query langauge.
+- 🌱 I’m currently learning Spotfire.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about anime and sports.
 - ⚡ Fun fact: I am proficient in using the soroban abacus.
