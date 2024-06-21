@@ -48,7 +48,7 @@ I am a data solutions engineering intern <a href="https://geaerospace.com/" targ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width='50' height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width='50' height='50'/> 
 
-🎧 Jamming to
+🎧 Listening to
 ---
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
