@@ -4,7 +4,7 @@
 
 I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball.
 
-- 🔭 I’m currently working on optimizing KQL-based Azure Log Analytics data pipelines.
+- 🔭 I’m currently working on AWS Athena.
 - 🌱 I’m currently learning Spotfire.
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about anime and sports.
