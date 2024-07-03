@@ -50,8 +50,8 @@ I am a data solutions engineer intern <a href="https://geaerospace.com/" target=
 
 🎧 Listening to
 ---
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-  </a>
-</p>
+<div style="text-align: center;">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+    </a>
+</div>
