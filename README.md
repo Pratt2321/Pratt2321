@@ -5,7 +5,7 @@
 I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball. 
 
 - 🔭 I’m currently working on the eBay ML Challenge. 
-- 🌱 I’m currently learning AWS Athena. 
+- 🌱 I’m currently learning AWS Lambda and Step Functions. 
 - 👯 I’m looking to collaborate on Kaggle competitions. 
 - 💬 Ask me about anime and credit cards. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
