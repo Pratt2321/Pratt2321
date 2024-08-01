@@ -7,7 +7,7 @@ I am a data solutions engineer intern <a href="https://geaerospace.com/" target=
 - 🔭 I’m currently working on the eBay ML Challenge. 
 - 🌱 I’m currently learning AWS Lambda and Step Functions. 
 - 👯 I’m looking to collaborate on Kaggle competitions. 
-- 💬 Ask me about anime, credit cards, and the GenAI race. 
+- 💬 Ask me about anime, credit cards, and working out. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
 
 💼 Languages and Frameworks
