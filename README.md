@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 
-I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and playing spikeball. 
+I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and working out. 
 
 - 🔭 I’m currently working on the eBay ML Challenge. 
 - 🌱 I’m currently learning AWS Lambda and Step Functions. 
 - 👯 I’m looking to collaborate on Kaggle competitions. 
-- 💬 Ask me about anime, credit cards, and working out. 
+- 💬 Ask me about anime, credit cards, and fitness. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
 
 💼 Languages and Frameworks
