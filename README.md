@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hi there 👋 
+### Hi there 👋
 
 I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and working out. 
 
