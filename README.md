@@ -4,7 +4,7 @@
 
 I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and working out. 
 
-- 🔭 I’m currently working on writing my experiences on Medium. 
+- 🔭 I’m currently working on growijg my personal brand on Medium. 
 - 🌱 I’m currently learning AWS Lambda and Step Functions. 
 - 👯 I’m looking to collaborate on Kaggle competitions. 
 - 💬 Ask me about anime, credit cards, and fitness. 
