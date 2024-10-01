@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am a data solutions engineer intern <a href="https://geaerospace.com/" target="_blank">@GE Aerospace</a>. I enjoy problem-solving, listening to music, and working out. 
+I am an undergraduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
 
 - 🔭 I’m currently working on growing my personal brand on Medium. 
 - 🌱 I’m currently learning gradient descent optimization algorithms. 
-- 👯 I’m looking to collaborate on Kaggle competitions. 
+- 👯 I’m looking to gain experience through data science internships. 
 - 💬 Ask me about anime, credit cards, and hip-hop. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
 
