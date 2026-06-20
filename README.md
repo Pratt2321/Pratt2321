@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am an undergraduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
+I am a graduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
 
-- 🔭 I’m currently working on <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification" target="_blank">AI-102</a>. 
-- 🌱 I’m currently learning the fundamentals of game theory.
-- 📕 I'm currently reading Sam Walton: Made in America. 
+- 🔭 I’m currently working on recommendation engines at Walmart. 
+- 🌱 I’m currently learning about knowledge graphs.
+- 📕 I'm currently reading Bowling Alone by Robert Putnam. 
 - 👯 I’m looking to gain experience through DS internships. 
 - 💬 Ask me about anime, credit cards, and hip-hop. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
