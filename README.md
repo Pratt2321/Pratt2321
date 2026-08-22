@@ -4,10 +4,10 @@
 
 I am a graduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
 
-- 🔭 I’m currently working on recommendation engines at Walmart. 
-- 🌱 I’m currently learning about knowledge graphs.
+- 🔭 I’m currently working on 80 in 8. 
+- 🌱 I’m currently learning about Game Theory. 
 - 📕 I'm currently reading Bowling Alone by Robert Putnam. 
-- 👯 I’m looking to gain experience through DS internships. 
+- 👯 I’m looking to gain experience through DS projects. 
 - 💬 Ask me about anime, credit cards, and hip-hop. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
 
