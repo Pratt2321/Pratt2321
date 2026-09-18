@@ -6,7 +6,7 @@ I am a graduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I e
 
 - 🔭 I’m currently working on 80 in 8. 
 - 🌱 I’m currently learning about Game Theory. 
-- 📕 I'm currently reading Bowling Alone by Robert Putnam. 
+- 📕 I'm currently reading Thinking Strategically by Avinash Dixit and Barry Nalebuff. 
 - 👯 I’m looking to gain experience through DS projects. 
 - 💬 Ask me about anime, credit cards, and hip-hop. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
