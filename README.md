@@ -4,7 +4,7 @@
 
 I am a graduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
 
-- 🔭 I’m currently working on a simulation of a fly watching Coen Carr highlights. 
+- 🔭 I’m currently working on my stats homework. 
 - 🌱 I’m currently learning CFOP speedsolving a Rubik's Cube. 
 - 📕 I'm currently reading The Long Walk by Stephen King. 
 - 👯 I’m looking to collaborate on the NFL Big Data Bowl 2027 Kaggle competition. 
