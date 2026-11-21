@@ -5,8 +5,8 @@
 I am a graduate student <a href="https://msu.edu/" target="_blank">@MSU</a>. I enjoy problem-solving, listening to music, and working out. 
 
 - 🔭 I’m currently working on my first solo trip logistics. 
-- 🌱 I’m currently learning CFOP speedsolving a Rubik's Cube. 
-- 📕 I'm currently reading White Nights by Fyodor Dostoevsky. 
+- 🌱 I’m currently learning about Freudian slips and his other theories. 
+- 📕 I'm currently reading The Running Man by Stephen King. 
 - 👯 I’m looking to collaborate on the NFL Big Data Bowl 2027 Kaggle competition. 
 - 💬 Ask me about anime, credit cards, and weightlifting. 
 - ⚡ Fun fact: I am proficient in using the soroban abacus. 
